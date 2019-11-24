@@ -1,0 +1,10 @@
+*{
+   font-family: 'Kanit', sans-serif;
+}
+
+.bigbanner {
+   background-image: url("images/02.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 500px;
+}
